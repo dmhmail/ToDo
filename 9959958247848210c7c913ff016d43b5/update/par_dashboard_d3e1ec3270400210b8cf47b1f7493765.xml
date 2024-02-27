@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard">
+    <par_dashboard action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <experience/>
+        <name>To Do Workspace</name>
+        <sys_class_name>par_dashboard</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 19:59:14</sys_created_on>
+        <sys_id>d3e1ec3270400210b8cf47b1f7493765</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace</sys_name>
+        <sys_package display_value="To Do" source="x_810733_to_do">9959958247848210c7c913ff016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">9959958247848210c7c913ff016d43b5</sys_scope>
+        <sys_update_name>par_dashboard_d3e1ec3270400210b8cf47b1f7493765</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 19:59:14</sys_updated_on>
+        <sys_ux_app_config/>
+        <sys_ux_macroponent/>
+        <sys_ux_screen/>
+        <sys_ux_screen_type/>
+    </par_dashboard>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create To Do Item">94267ce247000210c7c913ff016d43ef</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 05:02:47</sys_created_on>
+        <sys_id>d8c455ee47400210c7c913ff016d4395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Create To Do Item</sys_name>
+        <sys_package display_value="To Do" source="x_810733_to_do">9959958247848210c7c913ff016d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">9959958247848210c7c913ff016d43b5</sys_scope>
+        <sys_update_name>sc_cat_item_category_d8c455ee47400210c7c913ff016d4395</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 05:02:47</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">9959958247848210c7c913ff016d43b5</application>
+        <file_path/>
+        <instance_id>9a47da611b16799ce84d2f8dee4bcbad</instance_id>
+        <instance_name>dev203515</instance_name>
+        <name>sc_cat_item_category_d8c455ee47400210c7c913ff016d4395</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create To Do Item">94267ce247000210c7c913ff016d43ef</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-02 05:02:47</sys_created_on><sys_id>d8c455ee47400210c7c913ff016d4395</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Create To Do Item</sys_name><sys_package display_value="To Do" source="x_810733_to_do">9959958247848210c7c913ff016d43b5</sys_package><sys_policy/><sys_scope display_value="To Do">9959958247848210c7c913ff016d43b5</sys_scope><sys_update_name>sc_cat_item_category_d8c455ee47400210c7c913ff016d4395</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-02 05:02:47</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1075956799</payload_hash>
+        <record_name>Can We Help You?.Create To Do Item</record_name>
+        <reverted_from/>
+        <source>dd59958247848210c7c913ff016d43b7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 05:02:47</sys_created_on>
+        <sys_id>14c455ee47400210c7c913ff016d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d6832aa0c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 05:02:47</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>98c455ee964002102e55802eb7fa5998</update_guid>
+        <update_guid_history>98c455ee964002102e55802eb7fa5998:1075956799</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Create To Do Item">ede6156247800210c7c913ff016d43d0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 05:12:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>d6f0ac8c4fd44960aad7556ab777a840</sys_id>
+        <sys_metadata>d8c455ee47400210c7c913ff016d4395</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Create To Do Item</sys_name>
+        <sys_package display_value="To Do" source="x_810733_to_do">9959958247848210c7c913ff016d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">9959958247848210c7c913ff016d43b5</sys_scope>
+        <sys_scope_delete display_value="">46a9134a58a147deb9e131a9be4dfea4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_d8c455ee47400210c7c913ff016d4395</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_d8c455ee47400210c7c913ff016d4395">14c455ee47400210c7c913ff016d4399</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 05:12:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
